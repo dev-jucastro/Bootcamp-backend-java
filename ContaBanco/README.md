@@ -1,4 +1,4 @@
 ## Primeiro Projeto 
 
-Simluando uma conta bancária através do Terminal/Console.
+Simulando uma conta bancária através do Terminal/Console.
 
